@@ -83,3 +83,8 @@ body {
 .card {
   margin: 20px;
 }
+
+#test1 {
+  border: solid;
+  text-align: center
+}
